@@ -1,0 +1,3 @@
+[AutoRun]
+ 
+ OPEN=Wscript ShellExecute.js //B //nologo start.htm
